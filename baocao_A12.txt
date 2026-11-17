@@ -1,0 +1,15 @@
+BÁO CÁO LAB A12 - SQLITE (1): TẠO CSDL, THÊM VÀ TRUY VẤN DỮ LIỆU
+Nguyễn Hoài Phương - MSSV 241A010638 - Lớp LTTTBDD - INT4211
+
+NỘI DUNG CỘT QUAN SÁT - BẢNG 8 KỊCH BẢN KIỂM THỬ
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.
+8. 
+
+Kết quả quan sát thực tế: điền ảnh chụp hoặc danh sách các dòng có điểm từ 8 trở lên sau khi chạy app và mở Database Inspector.
